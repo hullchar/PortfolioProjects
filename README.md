@@ -7,6 +7,7 @@ Projects using Python, SQL, and data analysis to showcase professional and educa
 - [COVID Portfolio Project](https://github.com/hullchar/PortfolioProjects/blob/main/COVID%20Portfolio%20Project.sql)
 - [EDA with Python and Pandas](https://github.com/hullchar/PortfolioProjects/blob/main/Learner_Notebook%20(2)%20(1).ipynb.txt)
 - [Unit of Measurement Converter Project](https://github.com/hullchar/PortfolioProjects/blob/main/Unit%20of%20Measurement%20Converter%20Project.ipynb)
+- [Calculator Project](https://github.com/hullchar/PortfolioProjects/blob/main/Calculator%20Project.ipynb)
 
 ## Overview
 
