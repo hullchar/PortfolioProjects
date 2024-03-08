@@ -19,3 +19,19 @@ In this repository, you'll find a range of projects that I've completed. The con
 - Data analysis exercises
 
 Feel free to explore these materials to gain insights and inspiration for your own data analysis projects.
+
+## Sources
+
+Below are the sources for my portfolio:
+
+- [Google Data Analytics via Coursera](https://www.coursera.org/professional-certificates/google-data-analytics)
+- [Google Advanced Data Analytics via Coursera](https://www.coursera.org/professional-certificates/google-advanced-data-analytics)
+- [Analyst Builder by Alex Freberg](https://www.analystbuilder.com/)
+
+## Contact Information
+
+Please feel free to contact me with any opportunities!
+
+- [Website](https://hullchar.github.io/CharlotteHullAnalyst.github.io/)
+- [Linkedin](https://www.linkedin.com/in/charhull/)
+- Email address: char.l.hull1@gmail.com
