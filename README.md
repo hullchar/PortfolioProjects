@@ -32,6 +32,6 @@ Below are the sources for my portfolio:
 
 Please feel free to contact me with any opportunities!
 
-- [Website](https://hullchar.github.io/CharlotteHullAnalyst.github.io/)
+- [Website](https://sites.google.com/view/charlottehull/home?authuser=1)
 - [Linkedin](https://www.linkedin.com/in/charhull/)
 - Email address: char.l.hull1@gmail.com
